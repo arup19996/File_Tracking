@@ -1,0 +1,79 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/File_Tracking" />
+        <option value="$USER_HOME$/Project1" />
+        <option value="$USER_HOME$/Android1stTime/MapApplicatio" />
+        <option value="$USER_HOME$/Android1stTime/Loginday6" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MyApplication" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/File_Tracking" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/File_Tracking" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Android1stTime/Loginday6">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1490886593775" />
+              <option name="buildTimestamp" value="1487874600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Android1stTime/MapApplicatio">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1490901357015" />
+              <option name="buildTimestamp" value="1487874600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1490876734746" />
+              <option name="buildTimestamp" value="1487912400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/File_Tracking">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1498664720043" />
+              <option name="buildTimestamp" value="1487874600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3764568" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1498645204774" />
+              <option name="buildTimestamp" value="1487874600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$" />
+  </component>
+</application>
